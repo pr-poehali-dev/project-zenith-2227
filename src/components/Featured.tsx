@@ -8,11 +8,17 @@ export default function Featured() {
           className="w-full h-full object-cover"
         />
       </div>
-      <div className="flex-1 text-left lg:h-[800px] flex flex-col justify-center lg:mr-12 lg:order-1" id="about">
-        <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-600">Народный художник РСФСР</h3>
-        <p className="text-2xl lg:text-4xl mb-8 text-neutral-900 leading-tight">
-          Ким Ольдаев — живописец с мировым именем. Каждая работа — живое ощущение момента,
-          переданное маслом на холсте с искренностью и мастерством.
+      <div className="flex-1 text-left lg:h-[800px] flex flex-col justify-center lg:mr-12 lg:order-1 px-0" id="about">
+        <h3 className="uppercase mb-4 text-sm tracking-wide text-neutral-600">1933 — 1995</h3>
+        <h2 className="text-3xl lg:text-5xl font-bold mb-6 text-neutral-900 leading-tight">Ким Менгенович Ольдаев</h2>
+        <p className="text-base lg:text-lg mb-4 text-neutral-700 leading-relaxed">
+          Народный художник РСФСР, Заслуженный художник России, лауреат Государственной премии Калмыцкой АССР. Один из основателей современной калмыцкой живописи.
+        </p>
+        <p className="text-base lg:text-lg mb-4 text-neutral-600 leading-relaxed">
+          Художник яркого самобытного таланта — его кисть объяла всё: степь, ветер, травы, солнце и людей, влюблённых в эту вечную круговерть. Портрет — один из ведущих жанров его творчества: каждый образ индивидуален и в то же время несёт печать своего времени.
+        </p>
+        <p className="text-base lg:text-lg mb-8 text-neutral-600 leading-relaxed">
+          Особое место занимает серия «Пережитое» — 13 картин о суровом военном времени. Работы Ольдаева хранятся в частных коллекциях России и за рубежом.
         </p>
         <button className="bg-black text-white border border-black px-4 py-2 text-sm transition-all duration-300 hover:bg-white hover:text-black cursor-pointer w-fit uppercase tracking-wide">
           Приобрести картину

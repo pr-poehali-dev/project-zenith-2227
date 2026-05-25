@@ -27,9 +27,9 @@ export default function Hero() {
       </motion.div>
 
       <div className="relative z-10 text-center text-white px-6">
-        <p className="text-xs md:text-sm uppercase tracking-[0.3em] mb-4 opacity-80">Заслуженный художник России</p>
+        <p className="text-xs md:text-sm uppercase tracking-[0.3em] mb-4 opacity-80">Народный художник РСФСР</p>
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6 leading-none">
-          ЖИВОПИСЬ
+          КИМ ОЛЬДАЕВ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto opacity-90 mb-8">
           Оригинальные работы для коллекционеров и ценителей прекрасного

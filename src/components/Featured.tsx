@@ -3,9 +3,9 @@ export default function Featured() {
     <div className="flex flex-col lg:flex-row lg:justify-between lg:items-center min-h-screen px-6 py-12 lg:py-0 bg-white">
       <div className="flex-1 h-[400px] lg:h-[800px] mb-8 lg:mb-0 lg:order-2">
         <img
-          src="https://cdn.poehali.dev/projects/057d0fa6-d097-4747-a968-6a79e82f174a/files/fc8f546b-c7ae-48f8-9717-26cfe935ff79.jpg"
-          alt="Художник в мастерской"
-          className="w-full h-full object-cover"
+          src="https://cdn.poehali.dev/projects/057d0fa6-d097-4747-a968-6a79e82f174a/files/5b873553-779e-482a-a4a6-041acea99634.jpg"
+          alt="Ким Менгенович Ольдаев"
+          className="w-full h-full object-cover object-top"
         />
       </div>
       <div className="flex-1 text-left lg:h-[800px] flex flex-col justify-center lg:mr-12 lg:order-1 px-0" id="about">

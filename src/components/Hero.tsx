@@ -19,7 +19,7 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/057d0fa6-d097-4747-a968-6a79e82f174a/files/9524f2ef-6a3c-4a6a-ac3c-a0e5b4f7d380.jpg"
+          src="https://cdn.poehali.dev/projects/057d0fa6-d097-4747-a968-6a79e82f174a/bucket/9f1df426-452c-4d02-919a-97ffc6e4f655.jpg"
           alt="Хозяин степи — картина Кима Ольдаева"
           className="w-full h-full object-cover"
         />
